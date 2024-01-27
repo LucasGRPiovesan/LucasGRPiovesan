@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Currently Full Stack Developer and enthusiastic about several areas such as IOT, DevOps and CyberSecurity, always looking for new challenges and learning, with a focus on personal and professional growth.
+  Currently Software Engineer and enthusiastic about several areas such as IOT, DevOps and CyberSecurity, always looking for new challenges and learning, with a focus on personal and professional growth.
 </p> </br>
 
 <p align="left">
