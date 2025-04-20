@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Currently Software Engineer and enthusiastic about several areas such as IOT, DevOps and CyberSecurity, always looking for new challenges and learning, with a focus on personal and professional growth.
+  Software Engineer / Full Stack Developer / DevOps with 5 years of experience in projects such as ERPs, MVPs, SaaS platforms. Solid command of languages ​and frameworks such as JavaScript, TypeScript, PHP, Python, Java, C#, Dart, as well as tools such as Node.js, Vue.js, React.js, Laravel and Flutter. Works with agile methodologies (Scrum/Kanban), containerization with Docker, unit testing and continuous integration/continuous delivery (CI/CD). Focused on performance, organization and team collaboration, delivering scalable, secure and high-performance solutions in demanding environments.
 </p> </br>
 
 <p align="left">
