@@ -36,9 +36,9 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-<a href="https://github.com/LucasGRPiovesan" title="Perfil do Lucas">
+<!-- <a href="https://github.com/LucasGRPiovesan" title="Perfil do Lucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGRPiovesan&theme=dracula&show_icons=true" />
-</a>
+</a> -->
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
