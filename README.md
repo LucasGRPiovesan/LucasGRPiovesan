@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-💻 Full Stack Developer with over 5 years of experience working on enterprise systems, including ERPs, MVPs, and SaaS platforms. Skilled in handling the entire development lifecycle — from solution design to production deployment — with a focus on scalability, security, and performance.
+💻 Full Stack Developer with experience working on enterprise systems, including ERPs, MVPs, and SaaS platforms. Skilled in handling the entire development lifecycle — from solution design to production deployment — with a focus on scalability, security, and performance.
 
 🚀 Main tech stack:
 • Languages: JavaScript, TypeScript, PHP, Python, Java
